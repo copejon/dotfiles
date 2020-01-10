@@ -1,0 +1,24 @@
+[submodule ".vim/pack/plugins/start/YouCompleteMe/YouCompleteMe"]
+	path = .vim/pack/plugins/start/YouCompleteMe/YouCompleteMe
+	url = /Users/jcope/.vim/pack/plugins/start/YouCompleteMe
+[submodule ".vim/pack/plugins/start/auto-pairs/auto-pairs"]
+	path = .vim/pack/plugins/start/auto-pairs/auto-pairs
+	url = /Users/jcope/.vim/pack/plugins/start/auto-pairs
+[submodule ".vim/pack/plugins/start/nerdtree/nerdtree"]
+	path = .vim/pack/plugins/start/nerdtree/nerdtree
+	url = /Users/jcope/.vim/pack/plugins/start/nerdtree
+[submodule ".vim/pack/plugins/start/protobuf/protobuf"]
+	path = .vim/pack/plugins/start/protobuf/protobuf
+	url = /Users/jcope/.vim/pack/plugins/start/protobuf
+[submodule ".vim/pack/plugins/start/tabular/tabular"]
+	path = .vim/pack/plugins/start/tabular/tabular
+	url = /Users/jcope/.vim/pack/plugins/start/tabular
+[submodule ".vim/pack/plugins/start/tmux-complete.vim/tmux-complete.vim"]
+	path = .vim/pack/plugins/start/tmux-complete.vim/tmux-complete.vim
+	url = /Users/jcope/.vim/pack/plugins/start/tmux-complete.vim
+[submodule ".vim/pack/plugins/start/vim-surround/vim-surround"]
+	path = .vim/pack/plugins/start/vim-surround/vim-surround
+	url = /Users/jcope/.vim/pack/plugins/start/vim-surround
+[submodule ".vim/pack/plugins/start/yaml-vim/yaml-vim"]
+	path = .vim/pack/plugins/start/yaml-vim/yaml-vim
+	url = /Users/jcope/.vim/pack/plugins/start/yaml-vim
