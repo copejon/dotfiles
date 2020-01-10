@@ -1,8 +1,8 @@
 " Vim base settings
 syn on
 set backspace=indent,eol,start
-set packpath=/Users/jcope/.vim
-set runtimepath+=/Users/jcope/.vim
+set packpath=~/.vim
+set runtimepath+=~/.vim
 
 " add yaml stuffs
 au! BufNewFile,BufReadPost *.{yaml,yml} set filetype=yaml foldmethod=indent
