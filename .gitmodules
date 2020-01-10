@@ -13,12 +13,12 @@
 [submodule ".vim/pack/plugins/start/tabular"]
 	path = .vim/pack/plugins/start/tabular
 	url = https://github.com/godlygeek/tabular.git
-[submodule ".vim/pack/plugins/start/tmux-complete.vim.vim"]
-	path = .vim/pack/plugins/start/tmux-complete.vim
-	url = https://github.com/wellle/tmux-complete.vim.git
 [submodule ".vim/pack/plugins/start/vim-surround"]
 	path = .vim/pack/plugins/start/vim-surround
 	url = https://github.com/tpope/vim-surround.git
 [submodule ".vim/pack/plugins/start/yaml-vim"]
 	path = .vim/pack/plugins/start/yaml-vim
 	url = https://github.com/mrk21/yaml-vim.git
+[submodule ".vim/pack/plugins/start/tmux-complete.vim"]
+	path = .vim/pack/plugins/start/tmux-complete.vim
+	url = https://github.com/wellle/tmux-complete.vim.git
