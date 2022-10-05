@@ -1,2 +1,5 @@
+.nfs*
 .idea
 .cfg
+.DS_Store
+scratch
